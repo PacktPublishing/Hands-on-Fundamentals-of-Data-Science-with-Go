@@ -26,9 +26,10 @@ Chrome or any Browser<br/>
 
 
 
+
 ## Related Products
-* [Jupyter Notebook for Data Science [Video]](https://india.packtpub.com/in/application-development/jupyter-notebook-data-science-video)
+* [Apache Spark Deep Learning Recipes [Video]](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-deep-learning-recipes-video)
 
-* [Hands-on with Go [Video]](https://india.packtpub.com/in/application-development/hands-go-video)
+* [Apache Spark Deep Learning Advanced Recipes [Video]](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-deep-learning-advanced-recipes-video)
 
-* [Jupyter for Data Science [Video]](https://india.packtpub.com/in/big-data-and-business-intelligence/jupyter-data-science-video)
+* [Introduction To Data Science Using R Programming [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-data-science-using-r-programming-video)
