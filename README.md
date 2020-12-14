@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-on Fundamentals of Data Science with Go
 This is the code repository for [Hands-On Fundamentals of Data Science with Go [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-fundamentals-data-science-go-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
